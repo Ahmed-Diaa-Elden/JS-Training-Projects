@@ -1,0 +1,12 @@
+# JS-Training-Projects
+## Here are links of our Projects (Begins with easy one to hard ones)
+- [**Color Flipper**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/tree/main/01-color-flipper/setup/hex.html)
+- [**Counter**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/tree/main/02-counter/setup/index.html)
+- [**Reviews**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/tree/main/03-reviews/setup/index.html)
+- [**Navbar**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/tree/main/04-navbar/setup/index.html)
+- [**Sidebar**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/tree/main/05-sidebar/setup/index.html)
+- [**Model**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/tree/main/06-model/setup/index.html)
+- [**Questions**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/tree/main/07-questions/setup/index.html)
+- [**Menu**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/tree/main/08-menu/setup/index.html)
+- [**Video**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/tree/main/09-video/setup/index.html)
+- [**Scroll**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/tree/main/10-scroll/setup/index.html)
