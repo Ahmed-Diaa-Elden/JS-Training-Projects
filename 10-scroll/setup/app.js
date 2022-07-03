@@ -65,12 +65,12 @@ for(let link of scrollLink){
     const id = e.currentTarget.getAttribute('href').slice(1);
     const element = document.getElementById(id);
 
-    let top = element.offsetTop-nav.getBoundingClientRect().height
+    let top = element.offsetTop - nav.getBoundingClientRect().height
     if (!nav.classList.contains('fixed-nav')) {
-      linksContainer.style.height = 0;
       top -= nav.getBoundingClientRect().height
+      console.log(top)
     } 
-    if (linksContainer.getBoundingClientRect().height > 0 ) {
+    if (linksContainer.getBoundingClientRect().height > 82 ) {
       top += linksContainer.getBoundingClientRect().height;
     }
     window.scrollTo(0,top);
