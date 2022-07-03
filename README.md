@@ -10,4 +10,4 @@
 - [**Menu**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/08-menu/setup/index.html) (Filter)
 - [**Video**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/09-video/setup/index.html) (with preloading gif for slow internet bandwidth)
 - [**Scroll**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/10-scroll/setup/index.html) (Responsice navbar - can get to specific element whether mobile view or laptop view - making actions while scrolling - go to top button)
-- [**Tabs**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/tree/main/11-tabs/setup/index.html)
+- [**Tabs**](https://ahmed-diaa-elden.github.io/JS-Training-Projects/11-tabs/setup/index.html)
